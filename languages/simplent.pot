@@ -1,0 +1,320 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simplent\n"
+"POT-Creation-Date: 2017-10-13 17:50+0500\n"
+"PO-Revision-Date: 2017-10-13 17:49+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: assets/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: assets/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: assets/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: assets/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: comments.php:30
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:5
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:5
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:7
+msgid "https://abdulrafay.me/"
+msgstr ""
+
+#: footer.php:7
+#, php-format
+msgid "%s Theme by %s"
+msgstr ""
+
+#: header.php:24
+msgid "Type &amp; hit enter..."
+msgstr ""
+
+#: header.php:33
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:77 includes/setup.php:55
+msgid "Primary Menu"
+msgstr ""
+
+#: image.php:39
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:40
+msgid "Next Image"
+msgstr ""
+
+#: image.php:71 template-parts/content-page.php:22
+#: template-parts/content-single.php:26 template-parts/content.php:31
+msgid "Pages:"
+msgstr ""
+
+#: image.php:75 template-parts/content-page.php:26
+#: template-parts/content-single.php:30 template-parts/content.php:35
+msgid "Page"
+msgstr ""
+
+#: image.php:87
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: image.php:99 includes/template-tags.php:137
+#: template-parts/content-page.php:37
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\""
+msgstr ""
+
+#: image.php:113
+msgctxt "Parent Post Link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: includes/customizer/layout.php:6
+msgid "Layout Settings"
+msgstr ""
+
+#: includes/customizer/layout.php:21
+msgid "Site Layout"
+msgstr ""
+
+#: includes/customizer/layout.php:26
+msgid "Sidebar Left"
+msgstr ""
+
+#: includes/customizer/layout.php:27
+msgid "Sidebar Right"
+msgstr ""
+
+#: includes/customizer/layout.php:28
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/customizer/misc.php:9
+msgid "Misc Settings"
+msgstr ""
+
+#: includes/customizer/misc.php:26
+msgid "Show Search Icon"
+msgstr ""
+
+#: includes/customizer/misc.php:47
+msgid "Gallery Carousel"
+msgstr ""
+
+#: includes/customizer/misc.php:48
+msgid ""
+"Enable gallery carousel on gallery images. It will only work on home page "
+"with full size gallery images."
+msgstr ""
+
+#: includes/customizer/social.php:15
+msgid "Social Settings"
+msgstr ""
+
+#: includes/customizer/social.php:33
+msgid "Facebook Username"
+msgstr ""
+
+#: includes/customizer/social.php:55
+msgid "Twitter Username"
+msgstr ""
+
+#: includes/customizer/social.php:77
+msgid "Google Plus Username"
+msgstr ""
+
+#: includes/customizer/social.php:99
+msgid "Linkedin Username"
+msgstr ""
+
+#: includes/customizer/social.php:121
+msgid "Instagram Username"
+msgstr ""
+
+#: includes/customizer/social.php:144
+msgid "Pinterest Username"
+msgstr ""
+
+#: includes/customizer/social.php:166
+msgid "Email"
+msgstr ""
+
+#: includes/front/enqueue.php:74
+msgid "expand child menu"
+msgstr ""
+
+#: includes/front/enqueue.php:75
+msgid "collapse child menu"
+msgstr ""
+
+#: includes/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: includes/template-tags.php:87
+msgid "Newer posts"
+msgstr ""
+
+#: includes/template-tags.php:88
+msgid "Older posts"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: includes/template-tags.php:98
+msgid ", "
+msgstr ""
+
+#: includes/template-tags.php:119
+msgid "Categories"
+msgstr ""
+
+#: includes/template-tags.php:124
+msgid "Tags"
+msgstr ""
+
+#: includes/theme-customizer.php:24
+msgid "Theme Options"
+msgstr ""
+
+#: includes/widgets.php:5
+msgid "Sidebar"
+msgstr ""
+
+#: includes/widgets.php:7
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search  &hellip;"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: single.php:31
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: single.php:36
+msgid "Next"
+msgstr ""
+
+#: single.php:36
+msgid "Next post:"
+msgstr ""
+
+#: single.php:37
+msgid "Previous"
+msgstr ""
+
+#: single.php:37
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Simplent"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://abdulrafay.me/simplent"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A simple minimal WordPress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://abdulrafay.me"
+msgstr ""
